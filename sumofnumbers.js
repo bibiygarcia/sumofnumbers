@@ -3,6 +3,7 @@
 * a for-loop, a while-loop, recursion, and underscore.
 * Call them sumFor, sumWhile, sumRecursion, and sumTheSimpleWay.
 */
+
 function sumFor(data) {
   let theSum = 0;
   for (let i = 0; i < data.length; i++) {
